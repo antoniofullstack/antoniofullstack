@@ -39,8 +39,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=antoniofullstack&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
 </div>
 
-##
+###
 
 <div align="left">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
+
+###
+
+![Visitor Count](https://profile-counter.glitch.me/antoniofullstack/count.svg)
+
