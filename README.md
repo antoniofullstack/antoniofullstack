@@ -57,4 +57,4 @@
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
 ###
-<script> console.log('funcionou!') </script>
+<script></script>
