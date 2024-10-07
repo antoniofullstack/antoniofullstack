@@ -1,8 +1,8 @@
-<h2 align="left">Abou me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">💻 I'm a Fullstack developer.</p>
+<p align="left">I'm a Fullstack developer.</p>
 
 ###
 
