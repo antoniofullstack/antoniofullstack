@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Fullstack developer.</p>
+<p align="left">I'm a fullstack developer.</p>
 
 ###
 
