@@ -55,6 +55,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/antoniofullstack/antoniofullstack/blob/output/main/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/antoniofullstack/antoniofullstack/blob/output/main/snake.svg](https://raw.githubusercontent.com/antoniofullstack/antoniofullstack/b3e641f731473a5659886b86d3450ec1a0ac5c01/output/snake.svg)" alt="Snake animation" />
 
 ###
