@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Antonio!
 
-<p align="left">I'm a software developer with experience since 2017. Welcome to my GitHub profile, where I share my projects and contributions..</p>
+<p align="left">I'm a software developer with experience since 2019. Welcome to my GitHub profile, where I share my projects and contributions..</p>
 
 ## 💻 Tech Stack
 
