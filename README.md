@@ -47,5 +47,3 @@
 
 ###
 
-![Visitor Count](https://profile-counter.glitch.me/antoniofullstack/count.svg)
-
